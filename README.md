@@ -25,7 +25,7 @@ A Spring Boot-based Currency Converter API that fetches real-time exchange rates
 ### Installation
 1. Clone the repository
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/reddyharshavardhan/cc-master.git
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/reddyharshavardhan/currencyconverter.git
 
 
 2. Configure API Key
